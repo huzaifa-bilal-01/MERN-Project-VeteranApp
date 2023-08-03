@@ -1,6 +1,6 @@
 # Veteran App - MERN Application
 
-![Veteran App Banner](link-to-banner-image.png)
+![Veteran App Banner](https://github.com/huzaifa-bilal-01/MERN-Project-VeteranApp/blob/master/main.png)
 
 Welcome to Veteran App, a MERN (MongoDB, Express.js, React, Node.js) application designed to provide support and resources for veterans. This project is divided into two main folders: `server` and `client`.
 
