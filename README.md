@@ -48,21 +48,18 @@ To get the Veteran App up and running on your local machine, follow the steps be
 
 ### Main Page
 
-![Main Page](path-to-main-page-image.png)
+![Main Page](https://github.com/huzaifa-bilal-01/MERN-Project-VeteranApp/blob/master/main.png)
 
-Provide a brief description or explanation of the main page's functionality.
 
 ### Sign In Page
 
-![Sign In Page](path-to-sign-in-page-image.png)
+![Sign In Page](https://github.com/huzaifa-bilal-01/MERN-Project-VeteranApp/blob/master/sigin.png)
 
-Briefly describe the sign-in page and its purpose.
 
 ### Sign Up Page
 
-![Sign Up Page](path-to-sign-up-page-image.png)
+![Sign Up Page](https://github.com/huzaifa-bilal-01/MERN-Project-VeteranApp/blob/master/signup.png)
 
-Briefly describe the sign-up page and its purpose.
 
 ## License
 
